@@ -24,9 +24,10 @@ Mastery of a particular programming language is a very useful side effect of CS 
 
 ## My Timeline
 - 20250210: Learn about this course and plan to start. Also, create this repository.
-- 20250213: Finish the Lab00, Lab01, Hw01. Finish Function Videos
+- 20250213: Finish the Lab00, Lab01, Hw01, Disc00. Finish Function Videos
 
 **Progresses**
+- Disc: 1/12
 - Lab: 2/12
 - HW: 1/11
 - Project: 0/4
