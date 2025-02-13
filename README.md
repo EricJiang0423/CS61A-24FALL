@@ -23,7 +23,13 @@ Mastery of a particular programming language is a very useful side effect of CS 
 7. Other Backup: https://github.com/EricJiang0423/cs61a-24fa-backup (forked from [hqhq1025/cs61a-24fa-backup](https://github.com/hqhq1025/cs61a-24fa-backup))
 
 ## My Timeline
-20250210: Learn about this course and plan to start. Also, create this repository.
+- 20250210: Learn about this course and plan to start. Also, create this repository.
+- 20250213: Finish the Lab00, Lab01, Hw01. Finish Function Videos
+
+**Progresses**
+- Lab: 2/12
+- HW: 1/11
+- Project: 0/4
 
 ## All things considered:
 All resources and assignment implementations used by @PKUFlyingPig in taking this course are summarised in [PKUFlyingPig/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A). (Take it as a reference answer)
